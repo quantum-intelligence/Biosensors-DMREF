@@ -34,7 +34,8 @@ Outputs are written to `artifacts/<analyte>_<source>_*/`.
 ---
 
 ## Setup
-
+I uploaded all the parsed LIG voltammetry plots to https://drive.google.com/file/d/1dSDhQR2_Rc2rCb1UzcON-MN580HjfEaO/view?usp=sharing
+Anyone who wishes to replicate the results from this repo can download the file named "voltammetry_dataset_aligned.pkl" from the link.
 Requires Python 3.11 with the scientific stack. On Apple Silicon, a native
 (arm64) environment is strongly recommended so NumPy 2.x can read the dataset
 pickle.
